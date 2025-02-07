@@ -1,0 +1,8 @@
+Gerekli Python Kütüphaneleri:
+
+requests
+pandas
+sqlalchemy
+psycopg2
+matplotlib
+seaborn
